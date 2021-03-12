@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: aqua
+}
+
+h1 {
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 80px;
+}
